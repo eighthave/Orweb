@@ -14,7 +14,7 @@ Requires the free Orbot plugin. Download it here: https://goo.gl/IzfFG
 ★ RESISTANT TO FLASH VULNERABILITIES: Orweb attempts to prevent Flash from loading on sites you visit, blocking many common security threats.
 ★ EASY TO USE: You’re just a few clicks away from free, anonymous web surfing. For a quick, interactive walkthrough, visit our website: https://guardianproject.info/howto/browsefreely
 ★ OPEN-SOURCE: Our code is transparent. You can take a look or join the community to help make Orweb even better: https://github.com/guardianproject/orweb
-★ FREEDOM IN YOUR LANGUAGE: Orweb is available in: Arabic (العربية), Chinese (中文简体), Dutch (Nederlands), English, Esperanto, Farsi (فارسی), French (Français), German (Deutsch), Greek (Ελληνικά), Hungarian (Magyar Nyelv), Italian (Italiano), Norwegian (Norsk), Russian (Русский), Spanish (Español), Swedish (Svensk), and Tibetan (བོད་སྐད།).
+★ FREEDOM IN YOUR LANGUAGE: Orweb is available in: العربية, 中文简体, Deutsch, English, español, Esperanto, فارسی, français, Ελληνικά, Magyar, italiano, 日本語, Македонски, Nederlands, Norsk, polski, português, português do Brasil, Română, Русский, Slovenščina, svensk, Tibetan/བོད་སྐད།, Türkçe, Український, Tiếng Việt
 Don’t see your language? Join us and help translate the app: https://www.transifex.com/projects/p/orweb
 ***Learn More***
 ★ ABOUT US: Guardian Project is a group of developers that make secure mobile apps and open-source code for a better tomorrow.
